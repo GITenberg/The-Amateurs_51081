@@ -1,10 +1,16 @@
 _repo: The-Amateurs_51081
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51081-h/images/cover.jpg
 creator:
   author:
     agent_name: Cogan, Alan
     gutenberg_agent_id: '36077'
     url: http://www.gutenberg.org/2009/agents/36077
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51081#The-Amateurs
 gutenberg_issued: '2016-01-30'
 gutenberg_type: Text
 identifiers:
